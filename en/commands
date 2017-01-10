@@ -1,0 +1,1 @@
+*TRAFFIC*==say "Traffic calculation in progress" && say "$(jv_pg_gm_check_traffic)"
